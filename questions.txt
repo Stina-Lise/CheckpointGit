@@ -1,0 +1,4 @@
+1. Git log
+2. Git status
+3. Git init
+
