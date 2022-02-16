@@ -6,5 +6,8 @@ public class Main {
         Class myClass = new Class();
         myClass.Class();
 
+        Class2 method = new Class2();
+        method.myMethod();
+
     }
 }
